@@ -17,6 +17,6 @@
 ### STREAK
 <div align="left">
 <img src="https://streak-stats.demolab.com?user=KevzinIvan&hide_border=true&background=0D0D0D&ring=FCEE0A&fire=00F0FF&currStreakLabel=FCEE0A" width="480"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://media1.tenor.com/m/f-CL6rt4_GkAAAAC/sigma-kot.gif" width="200" height="190"/>
 </div>
