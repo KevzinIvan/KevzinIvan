@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- GIF BANNER - atur width & height sesuai selera -->
 <img src="https://i.redd.it/some-waguri-gifs-i-made-v0-e8ez2svnw6hf1.gif?width=498&auto=webp&s=104acec9d9c2ac1def861678317b6330da2695e1" width="800" height="281" alt="banner"/>
 
-<!-- Typing effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kevin;I'm+Learning+Something+New" alt="Typing SVG" />
 
 </div>
