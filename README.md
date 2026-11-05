@@ -18,3 +18,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://media1.tenor.com/m/f-CL6rt4_GkAAAAC/sigma-kot.gif" width="220" height="190"/>
 </div>
+
+[![html,css,js,php](https://skillicons.dev)](https://skillicons.dev)
