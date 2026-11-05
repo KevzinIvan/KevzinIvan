@@ -14,7 +14,7 @@
 
 ### STATS
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=KevzInIvan&show_icons=true&theme=cyberpunk&hide_border=true" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevzInIvan&theme=cyberpunk&hide_border=true" width="480"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://media1.tenor.com/m/f-CL6rt4_GkAAAAC/sigma-kot.gif" width="220" height="180"/>
 </div>
