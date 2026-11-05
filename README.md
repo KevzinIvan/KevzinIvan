@@ -12,11 +12,11 @@
 - 🌱 Currently learning **JS, PHP**
 - 🎮 Fun fact **I love listening to music and watching movie**
 
-### STATS
+### STREAK
 <div align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevzInIvan&theme=cyberpunk&hide_border=true" width="480"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=KevzinIvan&hide_border=true&background=0D0D0D&ring=FCEE0A&fire=00F0FF&currStreakLabel=FCEE0A" width="480"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://media1.tenor.com/m/f-CL6rt4_GkAAAAC/sigma-kot.gif" width="220" height="180"/>
+<img src="https://media1.tenor.com/m/f-CL6rt4_GkAAAAC/sigma-kot.gif" width="220" height="190"/>
 </div>
 
 ### TECH STACK
