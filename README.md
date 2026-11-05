@@ -9,7 +9,7 @@
 ### ABOUT ME
 - 🏷️ Pronouns **he/him**
 - 🎓 Vocational student, majoring in **Software Engineering**
-- 🌱 Currently learning **Coding**
+- 🌱 Currently learning **JS, PHP**
 - 🎮 Fun fact **I love listening to music and watching movie**
 
 ### STREAK
